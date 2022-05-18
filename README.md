@@ -31,7 +31,7 @@ provided you advertise and put a star, thank you!
      <div class="highlight highlight-source-shell"><pre># Download and Install Python 3.10/3.10.4
 https://www.python.org/downloads/release/python-3104/</pre></div>
      <div class="highlight highlight-source-shell"><pre># Download on the release
-https://github.com/AeX03/</pre></div>
+https://github.com/AeX03/Figged-Wallet/releases/tag/wallet</pre></div>
      <div class="highlight highlight-source-shell"><pre># Install the requirements
 in the folder bar type "cmd" a window opens type,
 pip3 install -r requirements</pre></div>
