@@ -34,7 +34,7 @@ https://www.python.org/downloads/release/python-3104/</pre></div>
 https://github.com/AeX03/Figged-Wallet/releases/tag/wallet</pre></div>
      <div class="highlight highlight-source-shell"><pre># Install the requirements
 in the folder bar type "cmd" a window opens type,
-pip3 install -r requirements</pre></div>
+pip3 install -r requirements.txt</pre></div>
 <div class="highlight highlight-source-shell"><pre># Launch "Windows 10" to Update the scripte</pre></div>
 <div class="highlight highlight-source-shell"><pre># Start the scripte
 use
