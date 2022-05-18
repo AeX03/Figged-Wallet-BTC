@@ -45,3 +45,19 @@ double click to wallet.py</pre></div>
   </tr>
  </tbody>
 </table>
+
+## Video
+
+### Installation
+
+
+https://user-images.githubusercontent.com/103602164/169065056-a5309258-04ff-4788-8a5d-ecf645c98885.mp4
+
+Music : Fellen Leaves - Billy Talent
+
+### Preview
+
+
+https://user-images.githubusercontent.com/103602164/169066227-771c48df-9938-46a2-813a-42ebc55db182.mp4
+
+Music : Horro Story - Arden Jones
