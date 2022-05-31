@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/AeX03/Figged-Wallet/blob/main/picture/btcpicmoon.png" width="200"/>
 
-# Figged Wallet
+# Figged Wallet BTC
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/TiktokBot)
 [![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/TiktokBot)
 [![Coverage Status](https://coveralls.io/repos/github.com/AeX03/badge.svg)](https://coveralls.io/github.com/AeX03/TiktokBot)
@@ -12,7 +12,7 @@
 - [x] Windows10/11 2022
 
 ## About
-* Figged Wallet What's the point?
+* Figged Wallet BTC What's the point?
 * Figged is used to decrypt btc wallets to automatically send them to your btc address!
 * for <b>payments</b>? <b>no account needed</b> ! just your address to receive your btc !
 * you can use the <b>premium</b> feature it's <b>free</b> :)
