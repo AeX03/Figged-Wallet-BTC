@@ -23,6 +23,7 @@ provided you advertise and put a star, thank you!
  <thead>
   <tr>
    <th width="50%" style="width:50%;">Windows 10/11</th>
+    <th width="50%" style="width:50%;">Linux</th>
       </tr>
  </thead>
  <tbody style="vertical-align: bottom;">
@@ -42,6 +43,20 @@ py wallet.py
 or
 double click to wallet.py</pre></div>
         </td>
+     <td>
+    <div class="highlight highlight-source-shell"><pre># Update & Upgrade
+sudo apt update -y && sudo apt upgrade -y</pre></div>
+       <div class="highlight highlight-source-shell"><pre># Install python & pip
+sudo apt install python3 -y && sudo apt install python3-pip</pre></div>
+       <div class="highlight highlight-source-shell"><pre># Install requirements
+pip3 install -r requirements.txt</pre></div>
+       <div class="highlight highlight-source-shell"><pre># Launch Figged Wallet BTC
+python3 Figged-Wallet-BTC.py
+or
+py Figget-Wallet-BTC.pyw
+or
+double click</pre></div>
+   </td>
   </tr>
  </tbody>
 </table>
