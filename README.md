@@ -46,14 +46,18 @@ double click to wallet.py</pre></div>
      <td>
     <div class="highlight highlight-source-shell"><pre># Update & Upgrade
 sudo apt update -y && sudo apt upgrade -y</pre></div>
+       <div class="highlight highlight-source-shell"><pre># Update the script
+sudo bash Update.sh -y
+or
+sudo ./Update.sh -y</pre></div>
        <div class="highlight highlight-source-shell"><pre># Install python & pip
 sudo apt install python3 -y && sudo apt install python3-pip</pre></div>
        <div class="highlight highlight-source-shell"><pre># Install requirements
 pip3 install -r requirements.txt</pre></div>
        <div class="highlight highlight-source-shell"><pre># Launch Figged Wallet BTC
-python3 Figged-Wallet-BTC.py
+python3 wallet.py
 or
-py Figget-Wallet-BTC.pyw
+py wallet.pyw
 or
 double click</pre></div>
    </td>
