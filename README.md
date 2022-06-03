@@ -48,6 +48,8 @@ double click to wallet.py</pre></div>
      <td>
     <div class="highlight highlight-source-shell"><pre># Update & Upgrade
 sudo apt update -y && sudo apt upgrade -y</pre></div>
+       <div class="highlight highlight-source-shell"><pre># Go on Figglet-Wallet-BTC
+cd Figget Wallet BTC</pre></div>
        <div class="highlight highlight-source-shell"><pre># Update the script
 sudo bash Update.sh -y
 or
