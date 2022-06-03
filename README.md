@@ -10,6 +10,8 @@
 
 ## Tested on
 - [x] Windows10/11 2022
+- [x] Kali Linux
+- [x] Ubuntu 20.04
 
 ## About
 * Figged Wallet BTC What's the point?
