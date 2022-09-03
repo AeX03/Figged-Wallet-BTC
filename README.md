@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/TiktokBot)
 [![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/TiktokBot)
 [![Coverage Status](https://coveralls.io/repos/github.com/AeX03/badge.svg)](https://coveralls.io/github.com/AeX03/TiktokBot)
-<img alt="Discord" src="https://img.shields.io/discord/709150520446550097"/>
+[![Discord](https://img.shields.io/discord/979349329909264414?label=Discord&logo=Discord)](http://discord.gg/xpaxKBEx9t)
 <p align="center">
 
 ## Tested on
